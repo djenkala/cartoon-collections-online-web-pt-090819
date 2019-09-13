@@ -9,6 +9,8 @@ def summon_captain_planet(planateer_calls)
   
 end
 
+summon_captain_planet(planateer_calls)
+
 def long_planeteer_calls# code an argument here
   # Your code here
 end
